@@ -1,0 +1,11 @@
+Pregunta #18
+En el siguiente código podemos ver un bucle infinito en el cual al entrar se le asigna el valor 10 a la variable i, 
+posteriormente se le resta 1 a i y se declara la condición de que el bucle se repetirá mientras i sea mayor que 0. 
+Al volver a entrar al bucle se vuelve a asignar el valor 10 a i y el ciclo se repite infinitamente por lo que nunca 
+se imprime nada en pantalla
+
+Pregunta #19
+En este código se le asigna el valor 10 a la variable i, después entra al bucle do while, el cual no contiene nada, 
+posteriormente se le resta 1 a i y se verifica que i sea mayor que 0, en el momento en el está condicion no se cumpla, 
+sale del ciclo e imprime el valor de i, el caso en el que la condición ya no se cumple es cuando i es igual a 0, por 
+tanto la salida del codigo es 0.
