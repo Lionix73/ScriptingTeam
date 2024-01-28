@@ -12,3 +12,18 @@ D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\refin
 D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.pdb
 D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.genruntimeconfig.cache
 D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\ref\Taller1.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\bin\Debug\net6.0\Taller1.exe
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\bin\Debug\net6.0\Taller1.deps.json
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\bin\Debug\net6.0\Taller1.runtimeconfig.json
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\bin\Debug\net6.0\Taller1.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\bin\Debug\net6.0\Taller1.pdb
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\refint\Taller1.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.pdb
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\Taller1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 18 (funciones)\obj\Debug\net6.0\ref\Taller1.dll

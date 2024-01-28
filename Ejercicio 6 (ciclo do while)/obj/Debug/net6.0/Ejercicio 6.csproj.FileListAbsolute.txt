@@ -12,3 +12,18 @@ D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug
 D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.pdb
 D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.genruntimeconfig.cache
 D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\ref\Ejercicio 6.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\bin\Debug\net6.0\Ejercicio 6.exe
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\bin\Debug\net6.0\Ejercicio 6.deps.json
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\bin\Debug\net6.0\Ejercicio 6.runtimeconfig.json
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\bin\Debug\net6.0\Ejercicio 6.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\bin\Debug\net6.0\Ejercicio 6.pdb
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\refint\Ejercicio 6.dll
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.pdb
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\Ejercicio 6.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Scripting\Taller1\Ejercicio 6 (ciclo do while)\obj\Debug\net6.0\ref\Ejercicio 6.dll

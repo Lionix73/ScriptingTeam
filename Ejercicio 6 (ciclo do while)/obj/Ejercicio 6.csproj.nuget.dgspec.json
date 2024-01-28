@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Mateo\\UPB\\Quinto Semestre\\Scripting\\Taller 1\\Ejercicio 6\\Ejercicio 6.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\Scripting\\Taller1\\Ejercicio 6 (ciclo do while)\\Ejercicio 6.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Mateo\\UPB\\Quinto Semestre\\Scripting\\Taller 1\\Ejercicio 6\\Ejercicio 6.csproj": {
+    "C:\\Users\\Acer\\Desktop\\Scripting\\Taller1\\Ejercicio 6 (ciclo do while)\\Ejercicio 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Mateo\\UPB\\Quinto Semestre\\Scripting\\Taller 1\\Ejercicio 6\\Ejercicio 6.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Scripting\\Taller1\\Ejercicio 6 (ciclo do while)\\Ejercicio 6.csproj",
         "projectName": "Ejercicio 6",
-        "projectPath": "D:\\Documentos\\Mateo\\UPB\\Quinto Semestre\\Scripting\\Taller 1\\Ejercicio 6\\Ejercicio 6.csproj",
-        "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Mateo\\UPB\\Quinto Semestre\\Scripting\\Taller 1\\Ejercicio 6\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\Scripting\\Taller1\\Ejercicio 6 (ciclo do while)\\Ejercicio 6.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\Scripting\\Taller1\\Ejercicio 6 (ciclo do while)\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
