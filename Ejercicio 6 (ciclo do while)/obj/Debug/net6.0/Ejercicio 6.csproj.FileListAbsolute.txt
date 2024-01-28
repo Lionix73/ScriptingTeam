@@ -1,0 +1,14 @@
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 6.exe
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 6.deps.json
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 6.runtimeconfig.json
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 6.dll
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 6.pdb
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.AssemblyInfoInputs.cache
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.AssemblyInfo.cs
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.csproj.CoreCompileInputs.cache
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.dll
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\refint\Ejercicio 6.dll
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.pdb
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 6.genruntimeconfig.cache
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller 1\Ejercicio 6\obj\Debug\net6.0\ref\Ejercicio 6.dll

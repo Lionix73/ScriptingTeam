@@ -1,0 +1,14 @@
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\bin\Debug\net6.0\Taller1.exe
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\bin\Debug\net6.0\Taller1.deps.json
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\bin\Debug\net6.0\Taller1.runtimeconfig.json
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\bin\Debug\net6.0\Taller1.dll
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\bin\Debug\net6.0\Taller1.pdb
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.AssemblyInfoInputs.cache
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.AssemblyInfo.cs
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.csproj.CoreCompileInputs.cache
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.dll
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\refint\Taller1.dll
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.pdb
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\Taller1.genruntimeconfig.cache
+D:\Documentos\Mateo\UPB\Quinto Semestre\Scripting\Taller1\obj\Debug\net6.0\ref\Taller1.dll
